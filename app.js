@@ -3,4 +3,4 @@ if (!apiKey) {
 console.error("CRITICAL ERROR: No API Key found!");
 process.exit(1);
 }
-console.log(&quot;App is running securely.&quot;);
+console.log("App is running securely.");
